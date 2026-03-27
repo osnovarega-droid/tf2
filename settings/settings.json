@@ -1,0 +1,79 @@
+{
+    "SteamPath": "C:\\Program Files (x86)\\Steam\\Steam.exe",
+    "CS2Path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive",
+    "SteamArg": "-nofriendsui -vgui -noreactlogin -noverifyfiles -nobootstrapupdate -skipinitialbootstrap -norepairfiles -overridepackageurl -disable-winh264",
+    "CS2Arg": "-condebug -conclearlog +exec fsn.cfg -language english -windowed -allowmultiple -noborder -swapcores -noqueuedload -vrdisable -windowed -w 383 -h 280 -nopreload -limitvsconst -softparticlesdefaultoff -nohltv -noaafonts -nosound -novid +violence_hblood 0 +sethdmodels 0 +mat_disable_fancy_blending 1 +r_dynamic 0 +engine_no_focus_sleep 120 -nojoy",
+    "DisableOverlay": true,
+    "RemoveBackground": true,
+    "VendorID": 4318,
+    "DeviceID": 8644,
+    "LooterInventory": "440/2",
+    "LooterTradeLink": "https://steamcommunity.com/tradeoffer/new/?partner=1820312068&token=IfT_ec3_",
+    "AutoAcceptEnabled": true,
+    "AutoMatchInStartEnabled": false,
+    "AutomaticAccountSwitchingEnabled": false,
+    "LicenseVercelCheckUrl": "",
+    "LicenseFirebaseUrl": "",
+    "LicenseFirebaseToken": "",
+    "TelegramBotToken": "7992300534:AAFyYu_W-etGTf44Yinoq0J8stLAIF9TGN0",
+    "TelegramBotProxies": [],
+    "ActivityBoosterMinMinutes": 65,
+    "ActivityBoosterMaxMinutes": 100,
+    "ActivityBoosterAccounts": {
+        "csdrop_master": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                730
+            ]
+        },
+        "valeriysokolov41": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                730
+            ]
+        },
+        "nvbiaihh10xjjlf": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                730
+            ]
+        },
+        "izwejoai32pl": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": []
+        },
+        "efah89wrskpyoxh": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": []
+        },
+        "himyicmz60": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                2263970
+            ]
+        },
+        "biibkpnn50uxs": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                730
+            ]
+        },
+        "qvso90khupvcuv": {
+            "min_minutes": 65,
+            "max_minutes": 100,
+            "game_appids": [
+                730
+            ]
+        }
+    },
+    "ActivityBoosterGameAppIds": [
+        730
+    ]
+}
